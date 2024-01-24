@@ -1,1 +1,1 @@
-# Stopwatch-applicarion
+# Stopwatch-application
